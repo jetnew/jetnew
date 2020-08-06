@@ -1,16 +1,17 @@
-### Hi there 👋
+### I’m currently working on 🔭
 
-<!--
-**jetnew/jetnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Studying Computer Science taking [Intro to AI](https://nusmods.com/modules/CS3243/introduction-to-artificial-intelligence) and [Machine Learning](https://knmnyn.github.io/cs3244-2010/) this semester.
+* Replicating [reinforcement learning](https://github.com/jetnew/rl-papers) papers and results.
+* Curating [AI/ML workshops](https://sites.google.com/view/workshops-statssoc/) at NUS Statistics Society.
 
-Here are some ideas to get you started:
+### I’m currently learning 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Reinforcement Learning
+* Probability and Statistics
+* Software Engineering for Machine Learning Infrastructure
+
+### How to reach me 📫
+
+* Email: notesjet@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jet-new
+* Blog: https://www.jetnew.io
