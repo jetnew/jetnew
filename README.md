@@ -13,5 +13,5 @@
 ### How to reach me 📫
 
 * Email: notesjet@gmail.com
-* LinkedIn: https://www.linkedin.com/in/jet-new
+* LinkedIn: https://www.linkedin.com/in/jetnew
 * Blog: https://www.jetnew.io
