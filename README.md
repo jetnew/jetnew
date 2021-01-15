@@ -1,4 +1,4 @@
-### I’m currently working on 🔭
+### I’m currently working on
 
 💻 I’m a computer science undergraduate, minor in statistics, at the National University of Singapore, and enrolled in the [University Scholars Programme](http://www.usp.nus.edu.sg/).
 
