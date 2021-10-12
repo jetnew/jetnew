@@ -1,4 +1,4 @@
-### Reach me at: [jetnew.io](https://jetnew.io).
+### Portfolio: [https://jetnew.io](https://jetnew.io).
 
 💻 I study computer science, and enrolled in the [University Scholars Programme](https://www.usp.nus.edu.sg/) (USP) at the [National University of Singapore](https://www.comp.nus.edu.sg/) (NUS).
 
