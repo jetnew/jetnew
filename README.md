@@ -1,9 +1,11 @@
-### I’m currently working on
+### Computer Science @ National University of Singapore
 
-💻 I’m a computer science undergraduate at the National University of Singapore, and enrolled in the [University Scholars Programme](http://www.usp.nus.edu.sg/).
+💻 I study computer science, and enrolled in the [University Scholars Programme](https://www.usp.nus.edu.sg/) (USP) at the [National University of Singapore](https://www.comp.nus.edu.sg/) (NUS).
 
-🧠 I’m currently researching model-based reinforcement learning under Prof. Harold Soh at the Collaborative Learning and Adaptive Robots ([CLeAR](https://haroldsoh.com/clear/)) lab as an undergraduate researcher.
+🧠 My current research interests include reinforcement learning, multi-agent systems, evolutionary algorithms and causality.
 
-📈 In my free time, I head the [NUS Statistics & Data Science Society](https://sites.google.com/view/nusstatisticssociety/), delivering career events and technical workshops in NUS.
+📈 I lead the [NUS Statistics & Data Science Society](https://sites.google.com/view/nussds) as president, organising technical workshops and events such as the annual Data Science Competition.
 
-💼 I previously interned as a machine learning engineer at [Grab](https://www.grab.com/sg/) and [IMDA](https://www.imda.gov.sg/).
+💼 I was previously AI undergraduate researcher at [CLeAR Lab](https://clear-nus.github.io/) (2021) and interned as a machine learning engineer at [Grab](https://www.grab.com/sg/) (2020) and [IMDA](https://www.imda.gov.sg/) (2019).
+
+Reach me at [jetnew.io](https://jetnew.io)
