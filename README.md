@@ -2,7 +2,7 @@
 
 💻 I study computer science, and enrolled in the [University Scholars Programme](https://www.usp.nus.edu.sg/) (USP) at the [National University of Singapore](https://www.comp.nus.edu.sg/) (NUS).
 
-🧠 My current research interests include reinforcement learning, multi-agent systems, evolutionary algorithms and causality.
+🧠 My current research interests include reinforcement learning, multi-agent systems and causality.
 
 📈 I lead the [NUS Statistics & Data Science Society](https://sites.google.com/view/nussds) as president, organising technical workshops and events such as the annual Data Science Competition.
 
