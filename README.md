@@ -2,7 +2,7 @@
 
 💻 I study computer science, and enrolled in the [University Scholars Programme](https://www.usp.nus.edu.sg/) (USP) at the [National University of Singapore](https://www.comp.nus.edu.sg/) (NUS).
 
-♟️ I currently research model-based multi-agent reinforcement learning and hierarchical multi-agent reinforcement learning.
+♟️ I currently research model-based and multi-agent reinforcement learning advised by Asst Prof Harold Soh and Prof Lee Wee Sun, and will be interning as data scientist at [Indeed](https://www.indeed.jobs/) in the coming summer 2022.
 
 📈 I lead the [NUS Statistics & Data Science Society](https://sites.google.com/view/nussds/) as president, organising technical workshops and events such as the annual [NUS Data Science Competition](https://sites.google.com/view/nussds/events/data-science-competition-with-hp).
 
