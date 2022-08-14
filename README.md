@@ -1,5 +1,7 @@
 ### Computer Science @ National University of Singapore
 
+<a href="https://github.com/jetnew"> <img src="https://visitor-badge.laobi.icu/badge?page_id=jetnew" alt="Visitors"></a>
+
 💻 I study computer science, and enrolled in the [University Scholars Programme](https://www.usp.nus.edu.sg/) (USP) at the [National University of Singapore](https://www.comp.nus.edu.sg/) (NUS).
 
 ♟️ I currently research model-based and multi-agent reinforcement learning advised by Asst Prof Harold Soh and Prof Lee Wee Sun at NUS.
