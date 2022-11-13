@@ -12,6 +12,6 @@
 * AI Researcher at [Collaborative, Learning, and Adaptive Robots (CLeAR) Lab](https://clear-nus.github.io) (2021)
 * Machine Learning Engineer at [Grab](https://www.grab.com/sg) (2021)
 
-📈 I was president of the [NUS Statistics & Data Science Society](https://sites.google.com/view/nussds) student interest group, organizing technical workshops and events such as the annual [NUS Data Science Competition](https://sites.google.com/view/nussds/articles/reflections-about-dac) for the student population.
+📈 I was president of the [NUS Statistics & Data Science Society](https://sites.google.com/view/nussds) student interest group, organizing events such as the annual [NUS Data Science Competition](https://sites.google.com/view/nussds/articles/reflections-about-dac).
 
 Portfolio: [jetnew.io](https://jetnew.io)
