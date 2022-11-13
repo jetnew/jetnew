@@ -1,6 +1,8 @@
 ### Data Scientist at Indeed
 
-💻 I study computer science at the [National University of Singapore](https://www.comp.nus.edu.sg), enrolled in the interdisciplinary [University Scholars Programme](https://www.usp.nus.edu.sg) (now [NUS College](https://nuscollege.nus.edu.sg)) and the undergraduate research [Turing Programme](https://www.comp.nus.edu.sg/programmes/ug/cs/tp).
+💻 I study computer science at the [National University of Singapore](https://www.comp.nus.edu.sg), and enrolled in:
+* Interdisciplinary [University Scholars Programme](https://www.usp.nus.edu.sg) (now [NUS College](https://nuscollege.nus.edu.sg))
+* Undergraduate research [Turing Programme](https://www.comp.nus.edu.sg/programmes/ug/cs/tp).
 
 ♟️ I currently research reinforcement learning, advised by Asst Prof Harold Soh and Prof Lee Wee Sun for my final year research.
 
