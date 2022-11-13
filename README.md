@@ -4,7 +4,7 @@
 * Interdisciplinary [University Scholars Programme](https://www.usp.nus.edu.sg) (now [NUS College](https://nuscollege.nus.edu.sg))
 * Undergraduate research [Turing Programme](https://www.comp.nus.edu.sg/programmes/ug/cs/tp).
 
-♟️ I currently research reinforcement learning, advised by Asst Prof Harold Soh and Prof Lee Wee Sun for my final year research.
+♟️ I currently research reinforcement learning, advised by [Assistant Professor Harold Soh](https://haroldsoh.com) and [Professor Lee Wee Sun](https://www.comp.nus.edu.sg/~leews).
 
 💼 I previously interned as:
 
