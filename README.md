@@ -2,7 +2,7 @@
 
 🕶️ Hi! I’m building Large Language Model (LLM) agents to help businesses scale at [AgentScale.ai](https://agentscale.ai/).
 
-🎓 I graduated in CS from the [National University of Singapore](https://www.comp.nus.edu.sg) in 2023, with both software engineering and AI research experience.
+🎓 I graduated in CS from the [National University of Singapore](https://www.comp.nus.edu.sg) in 2023, with both ML engineering and AI research experience.
 
 💼 I previously worked as:
 
