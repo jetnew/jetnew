@@ -10,4 +10,4 @@
 * RL Research Student at [NUS](https://clear-nus.github.io) (2021)
 * Machine Learning Engineer Intern at [Grab](https://www.grab.com/sg) (2021)
 
-🧠 I run [AI Space](https://t.me/joinchat/Nd3pOKrmU2EwYTU9), an AI community in Singapore with 600+ people, e.g. at Google Developer Space.
+🧠 I run AI Space, an AI community in Singapore with 600+ people, e.g. at Google Developer Space.
