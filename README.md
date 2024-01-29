@@ -1,6 +1,6 @@
 ### Founder / Data Scientist
 
-🕶️ Hi! I’m building Large Language Model (LLM) agents to help businesses scale at [AgentScale.ai](https://agentscale.ai/).
+🕶️ Hi! I’m building an AI agent for the browser at [AgentScale AI](https://agentscale.ai/).
 
 🎓 I graduated in CS from the [National University of Singapore](https://www.comp.nus.edu.sg) in 2023, with both ML engineering and AI research experience.
 
