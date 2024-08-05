@@ -1,13 +1,15 @@
-### Founder / Data Scientist
+### AI Engineer
 
-🕶️ Hi! I’m building an AI agent for the browser at [AgentScale AI](https://agentscale.ai/).
+☁️ Hi! I'm building Atlas: AI reader for the web. My goal is to help everyone leverage the full capabilities of LLMs.
 
-🎓 I graduated in CS from the [National University of Singapore](https://www.comp.nus.edu.sg) in 2023, with both ML engineering and AI research experience.
+💻 I'm an AI engineer working on the intersection of RAG, agents and knowledge graphs. I believe that LLMs can help us learn things, do things and create things.
 
-💼 I previously worked as:
+💼 Previously, I worked as:
+- Co-founder at AgentScale AI (2023): Research, Engineering, Product, Design
+- Data Scientist Intern at Indeed (2022): Data science at scale
+- Student AI Researcher at NUS (2021): Transformer and reinforcement learning research
+- Machine Learning Engineer Intern at Grab (2021): ML engineering at scale
 
-* Data Scientist Intern at [Indeed](https://www.indeed.jobs) (2022)
-* RL Research Student at [NUS](https://clear-nus.github.io) (2021)
-* Machine Learning Engineer Intern at [Grab](https://www.grab.com/sg) (2021)
+🎓 I graduated in CS from the National University of Singapore in 2023 as top student in machine learning.
 
 🧠 I run AI Space, an AI community in Singapore with 600+ people, e.g. at Google Developer Space.
