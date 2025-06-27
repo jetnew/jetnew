@@ -1,4 +1,6 @@
-😊 Hi! I'm currently building Autocratic (https://autocratic.ai), an AI workspace for agencies to automate client work.
+😊 Hi! I'm currently building Atlas (https://atlasworkspace.ai), an AI workspace to transform ideas into insights.
+
+🕶 I'm Director at AgentScale AI (agentscale.ai), an award-winning AI automation agency that has delivered 30+ AI solutions, from MVPs for startups to business-critical live deployments for MNCs.
 
 💻 I'm an AI engineer working on the intersection of AI agents, RAG and prompt engineering. As a founder, I believe that LLMs can help use learn things, do things and create things.
 
