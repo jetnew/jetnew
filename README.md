@@ -1,4 +1,4 @@
-😊 Hi! I'm currently building Atlas (https://atlasworkspace.ai), an AI workspace to transform ideas into insights.
+😊 Hi! I'm currently building Atlas (https://atlasworkspace.ai), the visual and verifiable AI workspace to explore your ideas.
 
 🕶 I'm Director at AgentScale AI (agentscale.ai), an award-winning AI automation agency that has delivered 30+ AI solutions, from MVPs for startups to business-critical live deployments for MNCs.
 
